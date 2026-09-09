@@ -1,5 +1,5 @@
 # mobile-sales-powerbi-dashboard
-Power BI | DAX | Power Query | Data Visualization
+Interactive Power BI dashboard for analyzing mobile sales performance, products, trends and business KPIs.
 # Mobile Sales Dashboard – Power BI
 
 ## 📌 Project Overview
